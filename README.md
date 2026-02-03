@@ -1,6 +1,7 @@
 # 🚀 Resume Matcher Pro
 
-A modern, AI-powered resume matching tool that analyzes your resume against job descriptions and provides actionable improvement suggestions.
+- A modern, AI-powered resume matching tool that analyzes your resume against job descriptions and provides actionable improvement suggestions.
+- Build with Next.js, Tailwind CSS, Groq API.
 
 ![Resume Matcher Pro](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)
@@ -26,6 +27,16 @@ A modern, AI-powered resume matching tool that analyzes your resume against job 
 - **PDF Processing**: PDF.js
 - **AI API**: Groq (Llama 3.3 70B)
 
+## Screenshots
+
+- Main Screen
+  ![IMG_20260203_181802181_HDR](https://github.com/user-attachments/assets/8678efcc-ec76-4f43-add8-89dcfe816a0f)
+  ![IMG_20260203_182442389_HDR](https://github.com/user-attachments/assets/c2b546ac-ec53-4cbd-b921-b9e24727c4ad)
+  
+- Analysis Results
+  ![IMG_20260203_182521726_HDR](https://github.com/user-attachments/assets/69e05235-9ea1-49e1-af54-6d61d176c74b)
+  ![IMG_20260203_182629377](https://github.com/user-attachments/assets/f336ccb6-9e0a-4eaa-94d7-e5c251bf6fb5)
+
 ## 📋 Prerequisites
 
 - Node.js 18.x or higher
@@ -38,7 +49,7 @@ A modern, AI-powered resume matching tool that analyzes your resume against job 
 
 ```bash
 # If using git
-git clone <your-repo-url>
+git clone <https://github.com/yashraj022381/resume_matcher_pro.git>
 cd resume-matcher-pro
 
 # Or just extract the files to a folder
